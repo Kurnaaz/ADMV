@@ -1,41 +1,972 @@
 #EXTM3U
-RUSSIAN NIGHT
-http://194.28.154.185:81/udp/225.0.55.235:1234
+EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/144.png" tvg-name="Redlight HD",Redlight HD
 
-FRENCH LOVER
-http://37.235.200.88:81/udp/225.50.70.7:1234
+EXTINF:-1 tvg-id="PlayboyTV" tvg-logo="http://i.imgur.com/f0APgjy.png" group-title="Adulto",Playboy TV
+http://192.99.148.73:8080/live/play/play/90.ts
 
-BRAZZERS TV
-http://195.181.162.217:80/chico11/chico11/35604
+#EXTINF:-1 tvg-id="SexPrive" tvg-logo="http://i.imgur.com/kbei9Ju.png" group-title="Adulto",Sex Prive
 
-CANDY HD
-http://86.57.175.132:6878/ace/getstream?id=9f4c1e88e5d4298f391b8b5314466406b49970ac&.m3u8
+#EXTINF:-1 tvg-id="SexyHot" tvg-logo="http://i.imgur.com/jv8XhSR.png" group-title="Adulto",Sexy Hot
+http://192.99.148.73:8080/live/play/play/91.ts
 
-HOTCLUB 2 FHD
-http://jserverstv.xyz:80/Miguel/Miguel/140470
+#EXTINF:-1 tvg-id="Sextreme" tvg-logo="http://i.imgur.com/rxDFBSw.png" group-title="Adulto",Sextreme
+http://dns.clientetv.net:8080/Edinaldo/Edinaldo/2298
 
-#EXTINF:-1,188 Hustler
-http://188.35.9.26:2030/udp/047c
+Exp
+http://192.99.148.73:8080/live/play/play/92.ts
 
-#EXTINF:-1,Reality Kings
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SycLayU.png" group-title="Adulto",Venus
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/ynFru4D.png" group-title="Adulto",Sex Zone
+http://tv.ec.cx:1935/redecanais-stream-hot/myStream/chunklist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/NXRIW14.png" group-title="Adulto",Redlight
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/BQzmgyG.png" group-title="Adulto",Blue Hustler
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/BQzmgyG.png" group-title="Adulto",Hustler
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/8a71pse.png" group-title="Adulto",Hot
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://1.lithi.io/LRYy.png" group-title="Adulto",Brazzers TV Europe
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/hsphNnP.png" group-title="Adulto",Private TV
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/s7hsQT0.png" group-title="Adulto",Penthouse HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.number1guru.com/adult/tv-logo/Penthouse-Quickies.png" group-title="Adulto",Penthouse Quickies
+http://digitalxpress.gcdn.co/live1/penthouse/index.m3u8
+
+http://www.number1guru.com/adult/tv-logo/Penthouse-Quickies.png
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/107.png" group-title="Adulto",Olala HD
+http://92.124.129.203:1234/udp/225.54.23.160:5000
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://presseservice.pressrelations.de/material/pics/117555_201811195496064815.png" group-title="Adulto",VISITX HD
+http://stream.visit-x.tv:1935/vxtv/live_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/aa86b667854085.5b4848c2899f6.png”group-title="Adulto", RK SD
 http://188.35.9.26:5031/udp/058j
 
-#EXTINF:-1,Super One 91
-http://91.82.54.45:40124/udp/239.1.1.199:5000
+http://www.number1guru.com/adult/tv-logo/
 
- #EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/104.png" tvg-name="Русская ночь", RUSSIAN NIGHT
+#EXTINF:0 tvg-rec="3",Extasy 4K
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5014/index.m3u8
+#EXTINF:0 tvg-rec="3",Eroxxx HD
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5015/index.m3u8
+#EXTINF:0 tvg-rec="3",Playboy
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/527/index.m3u8
+#EXTINF:0 tvg-rec="3",Русская Ночь
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/147/index.m3u8
+#EXTINF:0 tvg-rec="3",Brazzers TV Europe
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/910/index.m3u8
+#EXTINF:0 tvg-rec="3",Шалун
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/922/index.m3u8
+#EXTINF:0 tvg-rec="3",Candy
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/923/index.m3u8
+#EXTINF:0 tvg-rec="0",Penthouse TV
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1073/index.m3u8
+#EXTINF:0 tvg-rec="0",Blue Hustler
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/1064/index.m3u8
+#EXTINF:0 tvg-rec="3",Barely legal
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/871/index.m3u8
+#EXTINF:0 tvg-rec="3",BRAZZERS TV Europe 2
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/872/index.m3u8
+#EXTINF:0 tvg-rec="3",Sexto Senso
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/875/index.m3u8
+#EXTINF:0 tvg-rec="0",SCT
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/876/index.m3u8
+#EXTINF:0 tvg-rec="3",PRIVE
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/877/index.m3u8
+#EXTINF:0 tvg-rec="3",Passion XXX
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/878/index.m3u8
+#EXTINF:0 tvg-rec="3",Redlight HD
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/242/index.m3u8
+#EXTINF:0 tvg-rec="3",Private TV
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/243/index.m3u8
+#EXTINF:0 tvg-rec="0",Hustler HD Europe
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/244/index.m3u8
+#EXTINF:0 tvg-rec="3",Dorcel TV HD
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/245/index.m3u8
+#EXTINF:0 tvg-rec="3",Pink'o TV
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/874/index.m3u8
+#EXTINF:0 tvg-rec="3",Нюарт TV
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2057/index.m3u8
+#EXTINF:0 tvg-rec="3",FrenchLover
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2160/index.m3u8
+#EXTINF:0 tvg-rec="3",O-la-la
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2161/index.m3u8
+#EXTINF:0 tvg-rec="1",Vivid Red HD
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2162/index.m3u8
+#EXTINF:0 tvg-rec="3",Exxxotica HD
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/2397/index.m3u8
+#EXTINF:0 tvg-rec="3",XXL
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5009/index.m3u8
+#EXTINF:0 tvg-rec="3",Penthouse Passion
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5010/index.m3u8
+#EXTINF:0 tvg-rec="3",Penthouse Gold HD
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5011/index.m3u8
+#EXTINF:0 tvg-rec="3",Penthouse Quickies 1300k
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5012/index.m3u8
+#EXTINF:0 tvg-rec="3",Penthouse Quickies HD
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/5013/index.m3u8
+#EXTINF:0 tvg-rec="3",SHOT TV
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/526/index.m3u8
+#EXTINF:0 tvg-rec="0",21 Sextury
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6164/index.m3u8
+#EXTINF:0 tvg-rec="0",A3 Bikini
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6165/index.m3u8
+#EXTINF:0 tvg-rec="0",Adult Time
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6166/index.m3u8
+#EXTINF:0 tvg-rec="0",Anal Red TV
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6167/index.m3u8
+#EXTINF:0 tvg-rec="0",Analized HD
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6168/index.m3u8
+#EXTINF:0 tvg-rec="0",AST TV
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6169/index.m3u8
+#EXTINF:0 tvg-rec="0",AST TV 2
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6170/index.m3u8
+#EXTINF:0 tvg-rec="0",Babes HD
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6171/index.m3u8
+#EXTINF:0 tvg-rec="0",Babes TV HD
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6172/index.m3u8
+#EXTINF:0 tvg-rec="0",Bang Bros HD
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6173/index.m3u8
+#EXTINF:0 tvg-rec="0",Bang!
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6174/index.m3u8
+#EXTINF:0 tvg-rec="0",Big Ass Adult TV
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6175/index.m3u8
+#EXTINF:0 tvg-rec="0",Big Dick Red TV
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6176/index.m3u8
+#EXTINF:0 tvg-rec="0",Big Tits Adult TV
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6177/index.m3u8
+#EXTINF:0 tvg-rec="0",Blacked HD
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6178/index.m3u8
+#EXTINF:0 tvg-rec="0",Blonde Adult TV
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6179/index.m3u8
+#EXTINF:0 tvg-rec="0",Blowjob Red TV
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6180/index.m3u8
+#EXTINF:0 tvg-rec="0",Brazzers eXXtra
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6181/index.m3u8
+#EXTINF:0 tvg-rec="0",Brazzers HD
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6182/index.m3u8
+#EXTINF:0 tvg-rec="0",Brunette Adult TV
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6183/index.m3u8
+#EXTINF:0 tvg-rec="0",cento x cento
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6184/index.m3u8
+#EXTINF:0 tvg-rec="0",Cherry Pimps
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6185/index.m3u8
+#EXTINF:0 tvg-rec="0",Club 17
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6186/index.m3u8
+#EXTINF:0 tvg-rec="0",Compilation Adult TV
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6187/index.m3u8
+#EXTINF:0 tvg-rec="0",Cuckold Red TV
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6188/index.m3u8
+#EXTINF:0 tvg-rec="0",Cum Louder
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6189/index.m3u8
+#EXTINF:0 tvg-rec="0",Cum4k
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6190/index.m3u8
+#EXTINF:0 tvg-rec="0",Daughter Swap
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6191/index.m3u8
+#EXTINF:0 tvg-rec="0",Day with a Pornstar
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6192/index.m3u8
+#EXTINF:0 tvg-rec="0",DDF Busty
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6193/index.m3u8
+#EXTINF:0 tvg-rec="0",DDF Network
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6194/index.m3u8
+#EXTINF:0 tvg-rec="0",Digital Desire HD
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6195/index.m3u8
+#EXTINF:0 tvg-rec="0",Digital Playground HD
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6196/index.m3u8
+#EXTINF:0 tvg-rec="0",Dorcel Club
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6197/index.m3u8
+#EXTINF:0 tvg-rec="0",Dusk
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6198/index.m3u8
+#EXTINF:0 tvg-rec="0",Evil Angel HD
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6199/index.m3u8
+#EXTINF:0 tvg-rec="0",Evolved Fights
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6200/index.m3u8
+#EXTINF:0 tvg-rec="0",Extasy HD
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6201/index.m3u8
+#EXTINF:0 tvg-rec="0",Fake Taxi HD
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6202/index.m3u8
+#EXTINF:0 tvg-rec="0",Fap TV 2
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6203/index.m3u8
+#EXTINF:0 tvg-rec="0",Fap TV 3
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6204/index.m3u8
+#EXTINF:0 tvg-rec="0",Fap TV 4
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6205/index.m3u8
+#EXTINF:0 tvg-rec="0",Fap TV Anal
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6206/index.m3u8
+#EXTINF:0 tvg-rec="0",Fap TV BBW
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6207/index.m3u8
+#EXTINF:0 tvg-rec="0",Fap TV Compilation
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6208/index.m3u8
+#EXTINF:0 tvg-rec="0",Fap TV Lesbian
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6209/index.m3u8
+#EXTINF:0 tvg-rec="0",Fap TV Parody
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6210/index.m3u8
+#EXTINF:0 tvg-rec="0",Fap TV Teens
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6211/index.m3u8
+#EXTINF:0 tvg-rec="0",FemJoy
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6212/index.m3u8
+#EXTINF:0 tvg-rec="0",Fetish Red TV
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6213/index.m3u8
+#EXTINF:0 tvg-rec="0",Gangbang Adult TV
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6214/index.m3u8
+#EXTINF:0 tvg-rec="0",Gay Adult TV
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6215/index.m3u8
+#EXTINF:0 tvg-rec="0",Got MYLF
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6216/index.m3u8
+#EXTINF:0 tvg-rec="0",Hands on Hardcore
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6217/index.m3u8
+#EXTINF:0 tvg-rec="0",Hard X
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6218/index.m3u8
+#EXTINF:0 tvg-rec="0",Hardcore Red TV
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6219/index.m3u8
+#EXTINF:0 tvg-rec="0",Hitzefrei HD
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6220/index.m3u8
+#EXTINF:0 tvg-rec="0",Holed
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6221/index.m3u8
+#EXTINF:0 tvg-rec="0",Hot and Mean
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6222/index.m3u8
+#EXTINF:0 tvg-rec="0",Hot Guys Fuck
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6223/index.m3u8
+#EXTINF:0 tvg-rec="0",Interracial Red TV
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6224/index.m3u8
+#EXTINF:0 tvg-rec="0",Japan HDV
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6225/index.m3u8
+#EXTINF:0 tvg-rec="0",Latina Red TV
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6226/index.m3u8
+#EXTINF:0 tvg-rec="0",Lesbea
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6227/index.m3u8
+#EXTINF:0 tvg-rec="0",Lesbian Red TV
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6228/index.m3u8
+#EXTINF:0 tvg-rec="0",Lethal Hardcore
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6229/index.m3u8
+#EXTINF:0 tvg-rec="0",Little Asians HD
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6230/index.m3u8
+#EXTINF:0 tvg-rec="0",Live Cams Adult TV
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6231/index.m3u8
+#EXTINF:0 tvg-rec="0",Lust Cinema
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6232/index.m3u8
+#EXTINF:0 tvg-rec="0",MetArt HD
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6233/index.m3u8
+#EXTINF:0 tvg-rec="0",MILF Red TV
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6234/index.m3u8
+#EXTINF:0 tvg-rec="0",Monsters of Cock
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6235/index.m3u8
+#EXTINF:0 tvg-rec="0",MYLF TV HD
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6236/index.m3u8
+#EXTINF:0 tvg-rec="0",Naughty America
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6237/index.m3u8
+#EXTINF:0 tvg-rec="0",Nubiles TV HD
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6238/index.m3u8
+#EXTINF:0 tvg-rec="0",ox-ax HD
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6239/index.m3u8
+#EXTINF:0 tvg-rec="0",Pink Erotic 3
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6240/index.m3u8
+#EXTINF:0 tvg-rec="0",Pink Erotic 4
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6241/index.m3u8
+#EXTINF:0 tvg-rec="0",Playboy Plus
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6242/index.m3u8
+#EXTINF:0 tvg-rec="0",Pornstar Red TV
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6243/index.m3u8
+#EXTINF:0 tvg-rec="0",POV Adult TV
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6244/index.m3u8
+#EXTINF:0 tvg-rec="0",Private HD
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6245/index.m3u8
+#EXTINF:0 tvg-rec="0",Public Agent
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6246/index.m3u8
+#EXTINF:0 tvg-rec="0",Reality Kings HD
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6247/index.m3u8
+#EXTINF:0 tvg-rec="0",RK Prime
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6248/index.m3u8
+#EXTINF:0 tvg-rec="0",RK TV
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6249/index.m3u8
+#EXTINF:0 tvg-rec="0",Rough Adult TV
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6250/index.m3u8
+#EXTINF:0 tvg-rec="0",Russian Adult TV
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6251/index.m3u8
+#EXTINF:0 tvg-rec="0",Sex With Muslims
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6252/index.m3u8
+#EXTINF:0 tvg-rec="0",SexArt
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6253/index.m3u8
+#EXTINF:0 tvg-rec="0",sext 6 senso
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6254/index.m3u8
+#EXTINF:0 tvg-rec="0",SINematica
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6255/index.m3u8
+#EXTINF:0 tvg-rec="0",Teen Red TV
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6256/index.m3u8
+#EXTINF:0 tvg-rec="0",Threesome Red TV
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6257/index.m3u8
+#EXTINF:0 tvg-rec="0",Tiny4K
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6258/index.m3u8
+#EXTINF:0 tvg-rec="0",Trans Angels
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6259/index.m3u8
+#EXTINF:0 tvg-rec="0",True Amateurs
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6260/index.m3u8
+#EXTINF:0 tvg-rec="0",Tushy HD
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6261/index.m3u8
+#EXTINF:0 tvg-rec="0",TushyRAW
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6262/index.m3u8
+#EXTINF:0 tvg-rec="0",Visit-X TV
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6263/index.m3u8
+#EXTINF:0 tvg-rec="0",Vivid TV Europe
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6264/index.m3u8
+#EXTINF:0 tvg-rec="0",Vixen HD
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6265/index.m3u8
+#EXTINF:0 tvg-rec="0",We Live Together
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6266/index.m3u8
+#EXTINF:0 tvg-rec="0",White Boxxx
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6267/index.m3u8
+#EXTINF:0 tvg-rec="0",Wicked
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6268/index.m3u8
+#EXTINF:0 tvg-rec="0",Xpanded TV
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6269/index.m3u8
+#EXTINF:0 tvg-rec="0",Balkan Erotic
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6270/index.m3u8
+#EXTINF:0 tvg-rec="0",Bangerz
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6271/index.m3u8
+#EXTINF:0 tvg-rec="0",Emanuelle HD
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6272/index.m3u8
+#EXTINF:0 tvg-rec="0",Extreme
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6273/index.m3u8
+#EXTINF:0 tvg-rec="0",Fast Boyz
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6274/index.m3u8
+#EXTINF:0 tvg-rec="0",HOT
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6275/index.m3u8
+#EXTINF:0 tvg-rec="0",HOT XXL HD
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6276/index.m3u8
+#EXTINF:0 tvg-rec="0",Hot Pleasure
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6277/index.m3u8
+#EXTINF:0 tvg-rec="0",Lesbian Affair
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6278/index.m3u8
+#EXTINF:0 tvg-rec="0",Oldtimer
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6279/index.m3u8
+#EXTINF:0 tvg-rec="0",Playboy LA
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6280/index.m3u8
+#EXTINF:0 tvg-rec="0",Red XXX
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6281/index.m3u8
+#EXTINF:0 tvg-rec="0",Sexy Hot
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6282/index.m3u8
+#EXTINF:0 tvg-rec="0",Taboo
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6283/index.m3u8
+#EXTINF:0 tvg-rec="0",Venus
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6284/index.m3u8
+#EXTINF:0 tvg-rec="0",X-MO
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6285/index.m3u8
+#EXTINF:0 tvg-rec="0",XY Max HD
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6286/index.m3u8
+#EXTINF:0 tvg-rec="0",XY Mix HD
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6287/index.m3u8
+#EXTINF:0 tvg-rec="0",XY Plus HD
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6288/index.m3u8
+#EXTINF:0 tvg-rec="0",Erotic
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6289/index.m3u8
+#EXTINF:0 tvg-rec="0",Erotic 2
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6290/index.m3u8
+#EXTINF:0 tvg-rec="0",Erotic 3
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6291/index.m3u8
+#EXTINF:0 tvg-rec="0",Erotic 4
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6292/index.m3u8
+#EXTINF:0 tvg-rec="0",Erotic 6
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6293/index.m3u8
+#EXTINF:0 tvg-rec="0",Erotic 7
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6294/index.m3u8
+#EXTINF:0 tvg-rec="0",Erotic 8
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6295/index.m3u8
+#EXTINF:0 tvg-rec="0",Erox HD
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6296/index.m3u8
+#EXTINF:0 tvg-rec="0",MvH Hard
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6297/index.m3u8
+#EXTINF:0 tvg-rec="0",SuperOne HD
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6298/index.m3u8
+#EXTINF:0 tvg-rec="0",Искушение HD
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6300/index.m3u8
+#EXTINF:0 tvg-rec="0",Ню Арт HD
+#EXTGRP:Взрослые
+http://1c13e321.otttv.pw/iptv/TEDPCMYSA6C556/6307/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="########## Adult ##########" tvg-logo="http://pici.life/Adult.png" group-title="For Adult",########## Adult ##########
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/5537
+#EXTINF:-1 tvg-id="" tvg-name="Penthouse Gold FHD (18+) US" tvg-logo="" group-title="For Adult",Penthouse Gold FHD (18+) US
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/13863
+#EXTINF:-1 tvg-id="" tvg-name="Penthouse Quickies FHD (18+) US" tvg-logo="" group-title="For Adult",Penthouse Quickies FHD (18+) US
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/13862
+#EXTINF:-1 tvg-id="" tvg-name="Vivid RED FHD (18+) US" tvg-logo="" group-title="For Adult",Vivid RED FHD (18+) US
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/13864
+#EXTINF:-1 tvg-id="" tvg-name="Redlight FHD (18+)" tvg-logo="" group-title="For Adult",Redlight FHD (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/674061
+#EXTINF:-1 tvg-id="" tvg-name="Dorcel FHD (18+)" tvg-logo="" group-title="For Adult",Dorcel FHD (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/5529
+#EXTINF:-1 tvg-id="" tvg-name="EroX (18+)" tvg-logo="" group-title="For Adult",EroX (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/13867
+#EXTINF:-1 tvg-id="" tvg-name="EroXXX FHD (18+)" tvg-logo="" group-title="For Adult",EroXXX FHD (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/13866
+#EXTINF:-1 tvg-id="dusk.nl" tvg-name="Dusk (18+)" tvg-logo="" group-title="For Adult",Dusk (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/19678
+#EXTINF:-1 tvg-id="" tvg-name="Hustler FHD (18+)" tvg-logo="" group-title="For Adult",Hustler FHD (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/674060
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Hustler (18+) US" tvg-logo="" group-title="For Adult",Hustler (18+) US
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/5525
+
+#EXTINF:-1 tvg-id="" tvg-name="Hustler (18+) US" tvg-logo="" group-title="For Adult",Hustler (18+) US
+http://catchup.iptv.iinet.rs/playlist.m3u8?id=177&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA==&DVR;?streamType=live
+
+#EXTINF:-1 tvg-id="" tvg-name="Maiden van Holland (18+)" tvg-logo="" group-title="For Adult",Maiden van Holland (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/674125
+#EXTINF:-1 tvg-id="" tvg-name="Balkan Erotik (18+)" tvg-logo="" group-title="For Adult",Balkan Erotik (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/13404
+#EXTINF:-1 tvg-id="brazzerstveurope.nl" tvg-name="Brazzers (18+) US" tvg-logo="" group-title="For Adult",Brazzers (18+) US
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/13403
+#EXTINF:-1 tvg-id="playboy.ca" tvg-name="PlayBoy TV HD (18+)" tvg-logo="" group-title="For Adult",PlayBoy TV HD (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/19674
+#EXTINF:-1 tvg-id="" tvg-name="Play Boy CA (+18)" tvg-logo="" group-title="For Adult",Play Boy CA (+18)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/17717
+#EXTINF:-1 tvg-id="playboy.ca" tvg-name="PlayBoy TV (18+)" tvg-logo="" group-title="For Adult",PlayBoy TV (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/19673
+#EXTINF:-1 tvg-id="" tvg-name="Playboy (18+) ES" tvg-logo="" group-title="For Adult",Playboy (18+) ES
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/5512
+#EXTINF:-1 tvg-id="" tvg-name="Pink' o TV (18+) IT" tvg-logo="" group-title="For Adult",Pink' o TV (18+) IT
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/16348
+#EXTINF:-1 tvg-id="pinkerotic.rs" tvg-name="Pink Erotic 1 (18+) EX-YU" tvg-logo="" group-title="For Adult",Pink Erotic 1 (18+) EX-YU
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/5521
+#EXTINF:-1 tvg-id="pinkerotic2.rs" tvg-name="Pink Erotic 2 (18+) EX-YU" tvg-logo="" group-title="For Adult",Pink Erotic 2 (18+) EX-YU
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/5520
+#EXTINF:-1 tvg-id="pinkerotic3.rs" tvg-name="Pink Erotic 3 (18+) EX-YU" tvg-logo="" group-title="For Adult",Pink Erotic 3 (18+) EX-YU
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/5519
+#EXTINF:-1 tvg-id="pinkerotic4.rs" tvg-name="Pink Erotic 4 (18+) EX-YU" tvg-logo="" group-title="For Adult",Pink Erotic 4 (18+) EX-YU
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/5518
+#EXTINF:-1 tvg-id="pinkerotic5.rs" tvg-name="Pink Erotic 5 (18+) EX-YU" tvg-logo="" group-title="For Adult",Pink Erotic 5 (18+) EX-YU
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/5517
+#EXTINF:-1 tvg-id="pinkerotic6.rs" tvg-name="Pink Erotic 6 (18+) EX-YU" tvg-logo="" group-title="For Adult",Pink Erotic 6 (18+) EX-YU
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/5516
+#EXTINF:-1 tvg-id="pinkerotic7.rs" tvg-name="Pink Erotic 7 FHD (18+) EX-YU" tvg-logo="" group-title="For Adult",Pink Erotic 7 FHD (18+) EX-YU
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/5515
+#EXTINF:-1 tvg-id="pinkerotic8.rs" tvg-name="Pink Erotic 8 (18+) EX-YU" tvg-logo="" group-title="For Adult",Pink Erotic 8 (18+) EX-YU
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/5514
+#EXTINF:-1 tvg-id="" tvg-name="Porn 1 (18+)" tvg-logo="" group-title="For Adult",Porn 1 (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/5494
+#EXTINF:-1 tvg-id="" tvg-name="Porn 2 (18+)" tvg-logo="" group-title="For Adult",Porn 2 (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/5493
+#EXTINF:-1 tvg-id="" tvg-name="Porn 3 (18+)" tvg-logo="" group-title="For Adult",Porn 3 (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/5492
+#EXTINF:-1 tvg-id="" tvg-name="Porn 4 (18+)" tvg-logo="" group-title="For Adult",Porn 4 (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/5491
+#EXTINF:-1 tvg-id="" tvg-name="Porn 5 (18+)" tvg-logo="" group-title="For Adult",Porn 5 (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/5490
+#EXTINF:-1 tvg-id="" tvg-name="Porn 6 (18+)" tvg-logo="" group-title="For Adult",Porn 6 (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/5489
+#EXTINF:-1 tvg-id="" tvg-name="Porn 7 HD (18+)" tvg-logo="" group-title="For Adult",Porn 7 HD (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/5488
+#EXTINF:-1 tvg-id="" tvg-name="Porn 8 (18+)" tvg-logo="" group-title="For Adult",Porn 8 (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/5487
+#EXTINF:-1 tvg-id="" tvg-name="Porn 9 (18+)" tvg-logo="" group-title="For Adult",Porn 9 (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/5486
+#EXTINF:-1 tvg-id="" tvg-name="Porn 10 (18+)" tvg-logo="" group-title="For Adult",Porn 10 (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/5485
+#EXTINF:-1 tvg-id="" tvg-name="Primafila Hot Club 2 HD (18+)" tvg-logo="" group-title="For Adult",Primafila Hot Club 2 HD (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/5509
+#EXTINF:-1 tvg-id="" tvg-name="Primafila Hot Club 3 HD (18+)" tvg-logo="" group-title="For Adult",Primafila Hot Club 3 HD (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/5508
+#EXTINF:-1 tvg-id="" tvg-name="Primafila Hot Club 4 FHD (18+)" tvg-logo="" group-title="For Adult",Primafila Hot Club 4 FHD (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/5507
+#EXTINF:-1 tvg-id="" tvg-name="Primafila Hot Club 6 FHD (18+)" tvg-logo="" group-title="For Adult",Primafila Hot Club 6 FHD (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/5505
+#EXTINF:-1 tvg-id="" tvg-name="Primafila Hot Club 7 (18+)" tvg-logo="http://pici.life/Adult.png" group-title="For Adult",Primafila Hot Club 7 (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/5504
+#EXTINF:-1 tvg-id="" tvg-name="Primafila Hot Club 8 FHD (18+)" tvg-logo="" group-title="For Adult",Primafila Hot Club 8 FHD (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/5503
+#EXTINF:-1 tvg-id="" tvg-name="Primafila Hot Club 9 FHD (18+)" tvg-logo="http://pici.life/Adult.png" group-title="For Adult",Primafila Hot Club 9 FHD (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/5502
+#EXTINF:-1 tvg-id="" tvg-name="Blacked FHD (18+)" tvg-logo="" group-title="For Adult",Blacked FHD (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/5495
+#EXTINF:-1 tvg-id="" tvg-name="Bunga Bunga (18+)" tvg-logo="" group-title="For Adult",Bunga Bunga (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/5532
+#EXTINF:-1 tvg-id="" tvg-name="ButGo (18+)" tvg-logo="" group-title="For Adult",ButGo (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/19684
+#EXTINF:-1 tvg-id="" tvg-name="Candy (18+)" tvg-logo="" group-title="For Adult",Candy (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/19683
+#EXTINF:-1 tvg-id="" tvg-name="Centoxcento TV (18+)" tvg-logo="" group-title="For Adult",Centoxcento TV (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/19682
+#EXTINF:-1 tvg-id="" tvg-name="Cento Cento HD (18+) IT" tvg-logo="" group-title="For Adult",Cento Cento HD (18+) IT
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/5531
+#EXTINF:-1 tvg-id="" tvg-name="Daughter Swap (18+)" tvg-logo="" group-title="For Adult",Daughter Swap (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/19680
+#EXTINF:-1 tvg-id="" tvg-name="Dusk DeLuxe (18+) NL" tvg-logo="" group-title="For Adult",Dusk DeLuxe (18+) NL
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/5528
+#EXTINF:-1 tvg-id="" tvg-name="Desire FHD (18+)" tvg-logo="" group-title="For Adult",Desire FHD (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/5530
+#EXTINF:-1 tvg-id="" tvg-name="Hot HD (18+) PT" tvg-logo="" group-title="For Adult",Hot HD (18+) PT
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/13397
+#EXTINF:-1 tvg-id="" tvg-name="Hot (18+) PT" tvg-logo="" group-title="For Adult",Hot (18+) PT
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/5526
+#EXTINF:-1 tvg-id="dorceltv.fr" tvg-name="Dorcel (18+)" tvg-logo="" group-title="For Adult",Dorcel (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/19679
+#EXTINF:-1 tvg-id="" tvg-name="Leo TV (18+) CZ" tvg-logo="" group-title="For Adult",Leo TV (18+) CZ
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/16350
+#EXTINF:-1 tvg-id="" tvg-name="Jasmin TV (18+)" tvg-logo="" group-title="For Adult",Jasmin TV (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/16002
+#EXTINF:-1 tvg-id="passiexxx.nl" tvg-name="Passie (18+)" tvg-logo="" group-title="For Adult",Passie (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/13402
+#EXTINF:-1 tvg-id="" tvg-name="O La La FHD (18+)" tvg-logo="" group-title="For Adult",O La La FHD (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/5523
+#EXTINF:-1 tvg-id="" tvg-name="Moms Teach (18+)" tvg-logo="" group-title="For Adult",Moms Teach (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/13401
+#EXTINF:-1 tvg-id="" tvg-name="Meiden van Holland Hard (18+) NL" tvg-logo="" group-title="For Adult",Meiden van Holland Hard (18+) NL
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/5524
+#EXTINF:-1 tvg-id="" tvg-name="Penthouse FHD (18+) US" tvg-logo="" group-title="For Adult",Penthouse FHD (18+) US
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/5522
+#EXTINF:-1 tvg-id="" tvg-name="Platinum FHD (18+)" tvg-logo="" group-title="For Adult",Platinum FHD (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/5513
+#EXTINF:-1 tvg-id="" tvg-name="Private (18+) NL" tvg-logo="" group-title="For Adult",Private (18+) NL
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/5501
+#EXTINF:-1 tvg-id="" tvg-name="Reality Kings (18+) US" tvg-logo="" group-title="For Adult",Reality Kings (18+) US
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/13399
+#EXTINF:-1 tvg-id="" tvg-name="Reality Sex (18+)" tvg-logo="" group-title="For Adult",Reality Sex (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/19670
+#EXTINF:-1 tvg-id="" tvg-name="Red Light (18+) NL" tvg-logo="" group-title="For Adult",Red Light (18+) NL
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/5500
+#EXTINF:-1 tvg-id="" tvg-name="SCT HD (18+) IT" tvg-logo="" group-title="For Adult",SCT HD (18+) IT
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/5498
+#EXTINF:-1 tvg-id="" tvg-name="Sext Senso (18+) IT" tvg-logo="" group-title="For Adult",Sext Senso (18+) IT
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/5497
+#EXTINF:-1 tvg-id="" tvg-name="Sirina 1 (18+)" tvg-logo="" group-title="For Adult",Sirina 1 (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/5536
+#EXTINF:-1 tvg-id="" tvg-name="Sirina 2 (18+)" tvg-logo="" group-title="For Adult",Sirina 2 (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/5535
+#EXTINF:-1 tvg-id="" tvg-name="Sirina 3 (18+)" tvg-logo="" group-title="For Adult",Sirina 3 (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/5534
+#EXTINF:-1 tvg-id="" tvg-name="Pleasure (18+)" tvg-logo="" group-title="For Adult",Pleasure (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/19672
+#EXTINF:-1 tvg-id="" tvg-name="TGirls (18+)" tvg-logo="" group-title="For Adult",TGirls (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/13398
+#EXTINF:-1 tvg-id="" tvg-name="Venus (18+) AR" tvg-logo="" group-title="For Adult",Venus (18+) AR
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/5496
+#EXTINF:-1 tvg-id="" tvg-name="SuperOne HD (18+) HU" tvg-logo="" group-title="For Adult",SuperOne HD (18+) HU
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/16347
+#EXTINF:-1 tvg-id="" tvg-name="Hot Club (18+)" tvg-logo="" group-title="For Adult",Hot Club (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/19687
+#EXTINF:-1 tvg-id="" tvg-name="Babes 2 (18+)" tvg-logo="" group-title="For Adult",Babes 2 (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/19701
+#EXTINF:-1 tvg-id="" tvg-name="Babes 17 (18+)" tvg-logo="" group-title="For Adult",Babes 17 (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/19703
+#EXTINF:-1 tvg-id="" tvg-name="Nubiles Casting (18+)" tvg-logo="" group-title="For Adult",Nubiles Casting (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/13400
+#EXTINF:-1 tvg-id="" tvg-name="Erox (18+)" tvg-logo="" group-title="For Adult",Erox (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/23177
+#EXTINF:-1 tvg-id="" tvg-name="XXX Adult (18+)" tvg-logo="" group-title="For Adult",XXX Adult (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/23178
+#EXTINF:-1 tvg-id="vividfr.ca" tvg-name="Vivid TV CA-FR (18+)" tvg-logo="" group-title="For Adult",Vivid TV CA-FR (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/53706
+#EXTINF:-1 tvg-id="" tvg-name="ALBA XXX 1" tvg-logo="" group-title="For Adult",ALBA XXX 1
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/666419
+#EXTINF:-1 tvg-id="" tvg-name="ALBA XXX 2" tvg-logo="" group-title="For Adult",ALBA XXX 2
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/666420
+#EXTINF:-1 tvg-id="" tvg-name="ALBA XXX 3" tvg-logo="" group-title="For Adult",ALBA XXX 3
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/666421
+#EXTINF:-1 tvg-id="" tvg-name="ALBA XXX 4" tvg-logo="" group-title="For Adult",ALBA XXX 4
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/666422
+#EXTINF:-1 tvg-id="" tvg-name="ALBA XXX 5" tvg-logo="" group-title="For Adult",ALBA XXX 5
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/666423
+#EXTINF:-1 tvg-id="" tvg-name="ALBA XXX 6" tvg-logo="" group-title="For Adult",ALBA XXX 6
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/666424
+#EXTINF:-1 tvg-id="" tvg-name="Fake Agent HD (18+)" tvg-logo="" group-title="For Adult",Fake Agent HD (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/666425
+#EXTINF:-1 tvg-id="" tvg-name="Fake Agent 3 HD (18+)" tvg-logo="" group-title="For Adult",Fake Agent 3 HD (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/666427
+#EXTINF:-1 tvg-id="" tvg-name="Fake Taxi HD (18+)" tvg-logo="" group-title="For Adult",Fake Taxi HD (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/666428
+#EXTINF:-1 tvg-id="" tvg-name="Fake Taxi Female FHD (18+)" tvg-logo="" group-title="For Adult",Fake Taxi Female FHD (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/666429
+#EXTINF:-1 tvg-id="" tvg-name="Sext6senso (18+)" tvg-logo="" group-title="For Adult",Sext6senso (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/666430
+#EXTINF:-1 tvg-id="" tvg-name="Free-XTV (18+)" tvg-logo="" group-title="For Adult",Free-XTV (18+)
+http://mytv.fun:8080/tfkrlf4mx9/slsnw5xw39/666431
+#EXTINF:-1 tvg-id="" tvg-name="Adult | Focus On Your Body " tvg-logo="" group-title="For Adult VOD",Adult | Focus On Your Body 
+http://mytv.fun:8080/movie/tfkrlf4mx9/slsnw5xw39/664634.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adult | Bathing With Her Boyfriend " tvg-logo="" group-title="For Adult VOD",Adult | Bathing With Her Boyfriend 
+http://mytv.fun:8080/movie/tfkrlf4mx9/slsnw5xw39/664635.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adult | Balls To Her Wall " tvg-logo="" group-title="For Adult VOD",Adult | Balls To Her Wall 
+http://mytv.fun:8080/movie/tfkrlf4mx9/slsnw5xw39/664636.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adult | Gingervitis " tvg-logo="" group-title="For Adult VOD",Adult | Gingervitis 
+http://mytv.fun:8080/movie/tfkrlf4mx9/slsnw5xw39/664637.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adult | Horny For The Holidays - Part 1 " tvg-logo="" group-title="For Adult VOD",Adult | Horny For The Holidays - Part 1 
+http://mytv.fun:8080/movie/tfkrlf4mx9/slsnw5xw39/664638.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adult | Getting Good Vibes " tvg-logo="" group-title="For Adult VOD",Adult | Getting Good Vibes 
+http://mytv.fun:8080/movie/tfkrlf4mx9/slsnw5xw39/664639.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adult | Helicockter Mom " tvg-logo="" group-title="For Adult VOD",Adult | Helicockter Mom 
+http://mytv.fun:8080/movie/tfkrlf4mx9/slsnw5xw39/664640.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adult | Load Size - Jordi's Max " tvg-logo="" group-title="For Adult VOD",Adult | Load Size - Jordi's Max 
+http://mytv.fun:8080/movie/tfkrlf4mx9/slsnw5xw39/664641.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adult | Lessons From the Champ " tvg-logo="" group-title="For Adult VOD",Adult | Lessons From the Champ 
+http://mytv.fun:8080/movie/tfkrlf4mx9/slsnw5xw39/664642.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adult | Nailed Through The Wall " tvg-logo="" group-title="For Adult VOD",Adult | Nailed Through The Wall 
+http://mytv.fun:8080/movie/tfkrlf4mx9/slsnw5xw39/664643.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adult | Nurse's Orders " tvg-logo="" group-title="For Adult VOD",Adult | Nurse's Orders 
+http://mytv.fun:8080/movie/tfkrlf4mx9/slsnw5xw39/664644.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adult | Night Walk " tvg-logo="" group-title="For Adult VOD",Adult | Night Walk 
+http://mytv.fun:8080/movie/tfkrlf4mx9/slsnw5xw39/664645.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adult | New To Nudism " tvg-logo="" group-title="For Adult VOD",Adult | New To Nudism 
+http://mytv.fun:8080/movie/tfkrlf4mx9/slsnw5xw39/664646.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adult | Serviced In Her Room " tvg-logo="" group-title="For Adult VOD",Adult | Serviced In Her Room 
+http://mytv.fun:8080/movie/tfkrlf4mx9/slsnw5xw39/664647.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adult | Sweet And Sour " tvg-logo="" group-title="For Adult VOD",Adult | Sweet And Sour 
+http://mytv.fun:8080/movie/tfkrlf4mx9/slsnw5xw39/664648.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adult | Sex Tape Mistake " tvg-logo="" group-title="For Adult VOD",Adult | Sex Tape Mistake 
+http://mytv.fun:8080/movie/tfkrlf4mx9/slsnw5xw39/664649.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adult | Tennis Balls Deep " tvg-logo="" group-title="For Adult VOD",Adult | Tennis Balls Deep 
+http://mytv.fun:8080/movie/tfkrlf4mx9/slsnw5xw39/664650.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adult | A Fair Deal " tvg-logo="" group-title="For Adult VOD",Adult | A Fair Deal 
+http://mytv.fun:8080/movie/tfkrlf4mx9/slsnw5xw39/664877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adult | We'll Do That For You " tvg-logo="" group-title="For Adult VOD",Adult | We'll Do That For You 
+http://mytv.fun:8080/movie/tfkrlf4mx9/slsnw5xw39/664878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adult | A Very Neighborly Affair " tvg-logo="" group-title="For Adult VOD",Adult | A Very Neighborly Affair 
+http://mytv.fun:8080/movie/tfkrlf4mx9/slsnw5xw39/665112.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adult | Bingo Bang " tvg-logo="" group-title="For Adult VOD",Adult | Bingo Bang 
+http://mytv.fun:8080/movie/tfkrlf4mx9/slsnw5xw39/665113.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adult | Backyard Banging " tvg-logo="" group-title="For Adult VOD",Adult | Backyard Banging 
+http://mytv.fun:8080/movie/tfkrlf4mx9/slsnw5xw39/665114.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adult | Behind Her Husbands Back " tvg-logo="" group-title="For Adult VOD",Adult | Behind Her Husbands Back 
+http://mytv.fun:8080/movie/tfkrlf4mx9/slsnw5xw39/665115.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adult | Black Out " tvg-logo="" group-title="For Adult VOD",Adult | Black Out 
+http://mytv.fun:8080/movie/tfkrlf4mx9/slsnw5xw39/665116.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adult | Blindfolded Bride " tvg-logo="" group-title="For Adult VOD",Adult | Blindfolded Bride 
+http://mytv.fun:8080/movie/tfkrlf4mx9/slsnw5xw39/665117.mp4
+
+
+#EXTINF:-1 tvg-id="" tvg-name="XXX BRASILEIRINHAS: AMIGAS DA MINHA IRMA" tvg-logo="https://i.imgur.com/wopmRjh.jpg" group-title="ADULTOS",XXX BRASILEIRINHAS: AMIGAS DA MINHA IRMA 
+
+#EXTINF:-1 tvg-id="" tvg-name="XXX BRASILEIRINHAS: DEPOIS DOS 40" tvg-logo="https://i.imgur.com/wopmRjh.jpg" group-title="ADULTOS",XXX BRASILEIRINHAS: DEPOIS DOS 40 
+
+#EXTINF:-1 tvg-id="" tvg-name="XXX BRASILEIRINHAS: ESTRELAS EM BUSCA DO PRAZER" tvg-logo="https://i.imgur.com/wopmRjh.jpg" group-title="ADULTOS",XXX BRASILEIRINHAS: ESTRELAS EM BUSCA DO PRAZER
+
+#EXTINF:-1 tvg-id="" tvg-name="XXX BRASILEIRINHAS: FAZENDO SACANAGEM" tvg-logo="https://i.imgur.com/wopmRjh.jpg" group-title="ADULTOS",XXX BRASILEIRINHAS: FAZENDO SACANAGEM 
+
+#EXTINF:-1 tvg-id="" tvg-name="XXX DORCEL TV" tvg-logo="https://i.imgur.com/wopmRjh.jpg" group-title="ADULTOS",XXX DORCEL TV
+
+#EXTINF:-1 tvg-id="" tvg-name="XXX PLAYBOY" tvg-logo="https://i.imgur.com/wopmRjh.jpg" group-title="ADULTOS",XXX PLAYBOY
+
+#EXTINF:-1 tvg-id="" tvg-name="XXX Playboy TV SD" tvg-logo="https://i.imgur.com/wopmRjh.jpg" group-title="ADULTOS",XXX Playboy TV SD 
+http://lindaflor.net:8080/denise22/denise22/410 
+#EXTINF:-1 tvg-id="" tvg-name="XXX PRIVATE HD" tvg-logo="https://i.imgur.com/wopmRjh.jpg" group-title="ADULTOS",XXX PRIVATE HD 
+http://lindaflor.net:8080/denise22/denise22/411 
+#EXTINF:-1 tvg-id="" tvg-name="XXX RUSNOCH" tvg-logo="https://i.imgur.com/wopmRjh.jpg" group-title="ADULTOS",XXX RUSNOCH 
+http://lindaflor.net:8080/denise22/denise22/413 
+#EXTINF:-1 tvg-id="" tvg-name="XXX Sextreme SD" tvg-logo="https://i.imgur.com/wopmRjh.jpg" group-title="ADULTOS",XXX Sextreme SD 
+http://lindaflor.net:8080/denise22/denise22/417
+#EXTINF:-1 tvg-id="" tvg-name="XXX Sexy Hot SD" tvg-logo="https://i.imgur.com/wopmRjh.jpg" group-title="ADULTOS",XXX Sexy Hot SD 
+http://lindaflor.net:8080/denise22/denise22/418 
+#EXTINF:-1 tvg-id="" tvg-name="XXX SHALUN TV" tvg-logo="https://i.imgur.com/wopmRjh.jpg" group-title="ADULTOS",XXX SHALUN TV 
+http://lindaflor.net:8080/denise22/denise22/419 
+#EXTINF:-1 tvg-id="" tvg-name="XXX VIVID RED" tvg-logo="https://i.imgur.com/wopmRjh.jpg" group-title="ADULTOS",XXX VIVID RED 
+http://lindaflor.net:8080/denise22/denise22/421 
+#EXTINF:-1 tvg-id="" tvg-name="XXX Adultos: A Casa das Brasileirinhas 1" tvg-logo="https://i.imgur.com/wopmRjh.jpg" group-title="ADULTOS",XXX Adultos: A Casa das Brasileirinhas 1 
+http://lindaflor.net:8080/denise22/denise22/13138 
+#EXTINF:-1 tvg-id="" tvg-name="XXX Adultos: A Casa das Brasileirinhas 2" tvg-logo="https://i.imgur.com/wopmRjh.jpg" group-title="ADULTOS",XXX Adultos: A Casa das Brasileirinhas 2 
+http://lindaflor.net:8080/denise22/denise22/13139 
+#EXTINF:-1 tvg-id="" tvg-name="XXX Adultos: Anal" tvg-logo="https://i.imgur.com/wopmRjh.jpg" group-title="ADULTOS",XXX Adultos: Anal 
+http://lindaflor.net:8080/denise22/denise22/13140 
+#EXTINF:-1 tvg-id="" tvg-name="XXX Adultos: BI MASCULINO" tvg-logo="https://i.imgur.com/wopmRjh.jpg" group-title="ADULTOS",XXX Adultos: BI MASCULINO 
+http://lindaflor.net:8080/denise22/denise22/13141 
+#EXTINF:-1 tvg-id="" tvg-name="XXX Adultos: ESCOLA DAS BRASILEIRINHAS" tvg-logo="https://i.imgur.com/wopmRjh.jpg" group-title="ADULTOS",XXX Adultos: ESCOLA DAS BRASILEIRINHAS 
+http://lindaflor.net:8080/denise22/denise22/13142 
+#EXTINF:-1 tvg-id="" tvg-name="XXX Adultos: Lesbicas" tvg-logo="https://i.imgur.com/wopmRjh.jpg" group-title="ADULTOS",XXX Adultos: Lesbicas 
+http://lindaflor.net:8080/denise22/denise22/13143 
+#EXTINF:-1 tvg-id="" tvg-name="XXX Adultos: PORNO 4K" tvg-logo="https://i.imgur.com/wopmRjh.jpg" group-title="ADULTOS",XXX Adultos: PORNO 4K 
+http://lindaflor.net:8080/denise22/denise22/13144 
+#EXTINF:-1 tvg-id="" tvg-name="XXX BLUE HUSTLER" tvg-logo="https://i.imgur.com/wopmRjh.jpg" group-title="ADULTOS",XXX BLUE HUSTLER 
+http://lindaflor.net:8080/denise22/denise22/14181 
+#EXTINF:-1 tvg-id="" tvg-name="XXX BRAZZERS EUROPE" tvg-logo="https://i.imgur.com/wopmRjh.jpg" group-title="ADULTOS",XXX BRAZZERS EUROPE 
+http://lindaflor.net:8080/denise22/denise22/14182 
+#EXTINF:-1 tvg-id="" tvg-name="XXX CANDY" tvg-logo="https://i.imgur.com/wopmRjh.jpg" group-title="ADULTOS",XXX CANDY 
+http://lindaflor.net:8080/denise22/denise22/14183 
+#EXTINF:-1 tvg-id="" tvg-name="XXX CENTOXCENTO" tvg-logo="https://i.imgur.com/wopmRjh.jpg" group-title="ADULTOS",XXX CENTOXCENTO 
+http://lindaflor.net:8080/denise22/denise22/14184 
+#EXTINF:-1 tvg-id="" tvg-name="XXX EROXX" tvg-logo="https://i.imgur.com/wopmRjh.jpg" group-title="ADULTOS",XXX EROXX 
+http://lindaflor.net:8080/denise22/denise22/14185 
+#EXTINF:-1 tvg-id="" tvg-name="XXX PASSION" tvg-logo="https://i.imgur.com/wopmRjh.jpg" group-title="ADULTOS",XXX PASSION 
+http://lindaflor.net:8080/denise22/denise22/14186 
+#EXTINF:-1 tvg-id="" tvg-name="XXX PENTHOUSE BLACK" tvg-logo="https://i.imgur.com/wopmRjh.jpg" group-title="ADULTOS",XXX PENTHOUSE BLACK 
+http://lindaflor.net:8080/denise22/denise22/14187 
+#EXTINF:-1 tvg-id="" tvg-name="XXX PENTHOUSE QUICKIES" tvg-logo="https://i.imgur.com/wopmRjh.jpg" group-title="ADULTOS",XXX PENTHOUSE QUICKIES 
+http://lindaflor.net:8080/denise22/denise22/14188 
+#EXTINF:-1 tvg-id="" tvg-name="XXX PINK-O" tvg-logo="https://i.imgur.com/wopmRjh.jpg" group-title="ADULTOS",XXX PINK-O 
+http://lindaflor.net:8080/denise22/denise22/14189 
+#EXTINF:-1 tvg-id="" tvg-name="XXX REDLIGHT" tvg-logo="https://i.imgur.com/wopmRjh.jpg" group-title="ADULTOS",XXX REDLIGHT 
+http://lindaflor.net:8080/denise22/denise22/14190 
+#EXTINF:-1 tvg-id="" tvg-name="XXX SCT" tvg-logo="https://i.imgur.com/wopmRjh.jpg" group-title="ADULTOS",XXX SCT 
+http://lindaflor.net:8080/denise22/denise22/14191 
+#EXTINF:-1 tvg-id="" tvg-name="XXX SEXT6SENSO" tvg-logo="https://i.imgur.com/wopmRjh.jpg" group-title="ADULTOS",XXX SEXT6SENSO 
+http://lindaflor.net:8080/denise22/denise22/14192 
+#EXTINF:-1 tvg-id="" tvg-name="XXX SEXTREME" tvg-logo="https://i.imgur.com/wopmRjh.jpg" group-title="ADULTOS",XXX SEXTREME 
+http://lindaflor.net:8080/denise22/denise22/14193 
+#EXTINF:-1 tvg-id="" tvg-name="XXX VENUS" tvg-logo="https://i.imgur.com/wopmRjh.jpg" group-title="ADULTOS",XXX VENUS
+
+
+http://www.number1guru.com/adult/tv-logo/SuperOne.png
+EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/144.png" tvg-name="Redlight HD",Redlight HD
+
+EXTINF:-1 tvg-id="PlayboyTV" tvg-logo="http://i.imgur.com/f0APgjy.png" group-title="Adulto",Playboy TV
+http://192.99.148.73:8080/live/play/play/90.ts
+
+#EXTINF:-1 tvg-id="SexPrive" tvg-logo="http://i.imgur.com/kbei9Ju.png" group-title="Adulto",Sex Prive
+
+#EXTINF:-1 tvg-id="SexyHot" tvg-logo="http://i.imgur.com/jv8XhSR.png" group-title="Adulto",Sexy Hot
+http://192.99.148.73:8080/live/play/play/91.ts
+
+#EXTINF:-1 tvg-id="Sextreme" tvg-logo="http://i.imgur.com/rxDFBSw.png" group-title="Adulto",Sextreme
+http://dns.clientetv.net:8080/Edinaldo/Edinaldo/2298
+
+Exp
+http://192.99.148.73:8080/live/play/play/92.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SycLayU.png" group-title="Adulto",Venus
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/ynFru4D.png" group-title="Adulto",Sex Zone
+http://tv.ec.cx:1935/redecanais-stream-hot/myStream/chunklist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/NXRIW14.png" group-title="Adulto",Redlight
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/BQzmgyG.png" group-title="Adulto",Blue Hustler
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/BQzmgyG.png" group-title="Adulto",Hustler
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/8a71pse.png" group-title="Adulto",Hot
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://1.lithi.io/LRYy.png" group-title="Adulto",Brazzers TV Europe
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/hsphNnP.png" group-title="Adulto",Private TV
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/s7hsQT0.png" group-title="Adulto",Penthouse HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.number1guru.com/adult/tv-logo/Penthouse-Quickies.png" group-title="Adulto",Penthouse Quickies
+http://digitalxpress.gcdn.co/live1/penthouse/index.m3u8
+
+http://www.number1guru.com/adult/tv-logo/Penthouse-Quickies.png
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/107.png" group-title="Adulto",Olala HD
+http://92.124.129.203:1234/udp/225.54.23.160:5000
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://presseservice.pressrelations.de/material/pics/117555_201811195496064815.png" group-title="Adulto",VISITX HD
+http://stream.visit-x.tv:1935/vxtv/live_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/aa86b667854085.5b4848c2899f6.png”group-title="Adulto", RK SD
+http://188.35.9.26:5031/udp/058j
+
+#EXTINF:-1 tvg-logo="http://www.number1guru.com/adult/tv-logo/Russkaya-Noch.png"group-title="LIVExxx",RUSSIAN NIGHT TV
 http://194.28.154.185:81/udp/225.0.55.235:1234
 
-#EXTINF:-1, FRENCH LOVER
+#EXTINF:-1 tvg-logo="http://www.number1guru.com/adult/tv-logo/French-Lover.png"group-title="LIVExxx",FRENCH LOVER
 http://37.235.200.88:81/udp/225.50.70.7:1234
 
-#EXTINF:-1, BRAZZERS TV
+#EXTINF:-1 tvg-logo="http://www.number1guru.com/adult/tv-logo/Brazzer-Europe.png"group-title="LIVExxx",BRAZZERS TV
 http://195.181.162.217:80/chico11/chico11/35604
 
-#EXTINF:-1, CANDY HD
+#EXTINF:-1 tvg-logo="http://www.number1guru.com/adult/tv-logo/Candy.png"group-title="LIVExxx",CANDY HD
 http://86.57.175.132:6878/ace/getstream?id=9f4c1e88e5d4298f391b8b5314466406b49970ac&.m3u8
 
-#EXTINF:-1, HOTCLUB 2 FHD
+#EXTINF:-1 tvg-logo="http://cdn.goldporntube.com/4/L/R/277XezVdlOHnoq1ij07cg2lIoW.png"group-title="LIVExxx",HOTCLUB 2 FHD
+http://jserverstv.xyz:80/Miguel/Miguel/140470
+
+#EXTINF:-1 tvg-logo="http://www.number1guru.com/adult/tv-logo/Hustler-HD.png"group-title="LIVExxx",Hustler
+http://188.35.9.26:2030/udp/047c
+
+#EXTINF:-1 tvg-logo="http://www.number1guru.com/adult/tv-logo/Reality-Kings.png"group-title="LIVExxx",Reality Kings
+http://188.35.9.26:5031/udp/058j
+
+#EXTINF:-1 tvg-logo="http://www.number1guru.com/adult/tv-logo/SuperOne.png"group-title="LIVExxx", SuperOne
+http://91.82.54.45:40124/udp/239.1.1.199:5000
+
+#EXTINF:-1 group-title="XXX" tvg-logo="http://www.number1guru.com/adult/tv-logo/SuperOne.png" tvg-name="SuperOne",SUPER ONE
+http://188.35.9.5:10007/stolen/246r/parasite.install
+
+#EXTINF:-1 group-title="XXX" tvg-logo="https://tvmannen.es/iptv_channels/2258137_files/superone.png" tvg-name="SuperOne",SUPER ONE 
+https://bit.ly/go4SITE-dailyfreeiptv-blogspot-com
+
+#EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/104.png" tvg-name="Русская ночь", RUSSIAN NIGHT
+http://194.28.154.185:81/udp/225.0.55.235:1234
+
+#EXTINF:-1 group-title="XXX" tvg-logo="http://www.number1guru.com/adult/tv-logo/French-Lover.png" tvg-name="FL",FRENCH LOVER
+http://37.235.200.88:81/udp/225.50.70.7:1234
+
+#EXTINF:-1 group-title="XXX" tvg-logo="http://www.number1guru.com/adult/tv-logo/Brazzer-Europe.png" tvg-name="BTV",BRAZZERS TV
+http://195.181.162.217:80/chico11/chico11/35604
+
+#EXTINF:-1 group-title="XXX" tvg-logo="http://www.number1guru.com/adult/tv-logo/Candy.png" tvg-name="CTV",CANDY HD
+http://86.57.175.132:6878/ace/getstream?id=9f4c1e88e5d4298f391b8b5314466406b49970ac&.m3u8
+
+#EXTINF:-1 group-title="XXX" tvg-logo="https://bit.ly/2WlttYX" tvg-name="HC2", HOTCLUB 2 FHD
 http://jserverstv.xyz:80/Miguel/Miguel/140470
 
 #EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/105.png" tvg-name="Private TV",Private xxx 1 (2006)
@@ -62,32 +993,92 @@ http://187.188.147.165:8000/play/a00l
 #EXTINF:-1 group-title="XXX" tvg-logo="http://static.bldn.vip/logos/adultos/sextreme.png" tvg-name="Sextreme", SEXTREME
 http://187.188.147.165:8000/play/a012
 
-#EXTINF:-1 group-title="XXX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1200px-Canal_Venus_logo.svg.png" tvg-name="Venus", VENUS
+#EXTINF:-1 group-title="XXX" tvg-logo="http://www.number1guru.com/adult/tv-logo/Venus.png" tvg-name="Venus", VENUS
 http://187.188.147.165:8000/play/a01d
 
-#EXTINF:-1,BLUE HUSTLER X
+#EXTINF:-1 group-title="XXX" tvg-logo="http://www.number1guru.com/adult/tv-logo/Redlight-HD.png" tvg-name="Redlight",Redlight HD
+http://85.14.32.28:8800/udp/239.100.200.83:25000
+
+#EXTINF:-1 group-title="XXX" tvg-logo="http://www.number1guru.com/adult/tv-logo/Blue-Hustler.png" tvg-name="Blue Hustler", BLUE HUSTLER 
 http://catchup.iptv.iinet.rs/chunklist.m3u8?id=214&profile=1&DVR=1&token=dG9rZW49TEM2TUNibE9OMFpXU0xiNTF3SzBLd0xhWnhDSzgwLW8maWQ9NzImc2VjcmV0PW90dA==
 
-#EXTINF:-1,BARELY LEGAL
+#EXTINF:-1 group-title="XXX" tvg-logo="http://www.number1guru.com/adult/tv-logo/Barely-Legal.png" tvg-name="Barely Legal", BARELY LEGAL
 http://37.235.167.158:81/udp/225.50.70.4:1234
 
-#EXTINF:-1,FRENCH LOVER TV
+#EXTINF:-1 group-title="XXX" tvg-logo="https://bit.ly/3r4dvQS" tvg-name="French Lover",FRENCH LOVER TV
 http://37.235.167.158:81/udp/225.50.70.7:1234
 
-#EXTINF:-1,BRAZZERS TV
+#EXTINF:-1 group-title="XXX" tvg-logo="http://www.number1guru.com/adult/tv-logo/Brazzer-Europe.png" tvg-name="Brazzers tv",BRAZZERS TV
 http://37.235.167.158:81/udp/225.50.70.11:1234
 
-#EXTINF:-1,РУССКАЯ НОЧЬ
+#EXTINF:-1 group-title="XXX" tvg-logo="https://user.vsevnet.ru/cache/smotreshka/russkaya-noch.png" tvg-name="Russian Night",РУССКАЯ НОЧЬ 
 http://37.235.167.158:81/udp/225.50.70.3:1234
 
-#EXTINF:-1,PLAYBOY TV
+#EXTINF:-1 group-title="XXX" tvg-logo="https://imgs1cdn.adultempire.com/products/23/1837123h.jpg" tvg-name="Pure Babes", Pure Babes SD
+http://85.14.32.28:8800/udp/239.100.200.85:25000
+
+#EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/99.png" tvg-name="Hustler TV",Hustler TV
+http://37.193.134.225:81/udp/239.1.6.36:1234
+
+#EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/99.png" tvg-name="Hustler TV",Hustler TV
+http://77.243.112.149:8080/hustler_hd/index.m3u8?token=413079063374
+
+#EXTINF:-1 group-title="XXX" tvg-logo="https://bit.ly/3msEClp" tvg-name="Playboy tv", PLAYBOY TV 
+http://5.206.229.61:4022/udp/239.100.28.18:1234
+
+#EXTINF:-1 group-title="XXX" tvg-logo="http://img.starbr.in/1559769740_2e89abe45b95ba871009dd4e9ab94560da19a2ce.png" tvg-name="Playboy tv", PLAYBOY TV
 http://37.235.167.158:81/udp/225.50.70.2:1234
 
-#EXTINF:-1,FREE-X TV
+#EXTINF:-1 group-title="XXX" tvg-logo="http://www.number1guru.com/adult/tv-logo/Playboy.png" tvg-name="Playboy tv", PLAYBOY TV
+http://85.14.32.28:8800/udp/239.100.200.74:25000
+
+#EXTINF:-1 group-title="XXX" tvg-logo="http://www.number1guru.com/adult/tv-logo/Playboy.png" tvg-name="Playboy tv", PLAYBOY TV SD
+http://193.126.18.184:4022/udp/239.100.28.18:1234?RESOLUTION=1047x576
+
+#EXTINF:-1 group-title="XXX" tvg-logo="http://www.number1guru.com/adult/tv-logo/Playboy.png" tvg-name="Playboy tv", PLAYBOY TV SD
+http://view.my-tv.biz/tv/a0fccdfeac/997d1c54d0/video.m3u8
+
+#EXTINF:-1 group-title="XXX" tvg-logo="https://bit.ly/2LB6K8W" tvg-name="Free xtv", FREE-X TV 
 http://37.235.167.158:81/udp/225.50.70.5:1234
 
-#EXTINF : -1,  RideOnRod
+#EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/138.png" tvg-name="Dorcel TV HD",Dorcel 1 HD 
+http://85.14.32.28:8800/udp/239.100.200.86:25000
+
+#EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/138.png" tvg-name="Dorcel TV HD",Dorcel 2 HD
+http://85.14.32.28:8800/udp/239.100.200.87:25000
+
+#EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/138.png" tvg-name="Dorcel TV HD",Dorcel 3 HD
+http://cdn.itvago.com/DorcelTVHD/video.m3u8?token=8AF7B7F5FDC3A
+
+#EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/138.png" tvg-name="Dorcel TV HD",Dorcel 1 HD 
+http://85.14.32.28:8800/udp/239.100.200.86:25000
+
+#EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/138.png" tvg-name="Dorcel TV HD",Dorcel 2 HD
+http://85.14.32.28:8800/udp/239.100.200.87:25000
+
+#EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/138.png" tvg-name="Dorcel TV HD",Dorcel 3 HD
+http://cdn.itvago.com/DorcelTVHD/video.m3u8?token=8AF7B7F5FDC3A
+
+#EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/100.png" tvg-name="Brazzers TV",Brazzers TV
+#EXTGRP:XXX
+http://178.57.59.58:81/udp/239.195.2.4:1234
+
+#EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/100.png" tvg-name="Brazzers TV",Brazzers TV
+#EXTGRP:XXX
+http://178.57.59.58:81/udp/239.195.2.4:1234
+
+#EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/100.png" tvg-name="Brazzers TV", Brazzers Europe SD
+http://85.14.32.28:8800/udp/239.100.200.81:25000
+
+
+
+
+
+#EXTINF:-1 group-title="XXX" tvg-logo="https://bit.ly/3p1un9i" tvg-name="Ride", RideOnRod
 http://v2.14mp4.com/av-hls/20160713/m105/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2WkL1UY" group-title="24/7 ADULT IPTV",Visit-X TV (Opt-1)
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8?fluxuslust.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.zattic.com/logos/99c52002fd7a7a01f017/white/210x120.png" group-title="24/7 ADULT IPTV",Visit-X TV (Opt-2)
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8?fluxuslust.m3u8
@@ -107,51 +1098,9 @@ http://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_b2592000.m3u8
 #EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/jasmintv.png" group-title="24/7 ADULT IPTV",Jasmin TV (HD)
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8?fluxuslust.m3u8
 
-#EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/138.png" tvg-name="Dorcel TV HD",Dorcel 1 HD 
-http://85.14.32.28:8800/udp/239.100.200.86:25000
 
-#EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/138.png" tvg-name="Dorcel TV HD",Dorcel 2 HD
-http://85.14.32.28:8800/udp/239.100.200.87:25000
+HERTIL HERTIL hertil
 
-#EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/138.png" tvg-name="Dorcel TV HD",Dorcel 3 HD
-http://cdn.itvago.com/DorcelTVHD/video.m3u8?token=8AF7B7F5FDC3A
-
-#EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/100.png" tvg-name="Brazzers TV",Brazzers TV
-#EXTGRP:XXX
-http://178.57.59.58:81/udp/239.195.2.4:1234
-
-#EXTINF:-1, Redlight HD
-http://85.14.32.28:8800/udp/239.100.200.83:25000
-
-#EXTINF:-1, Pure Babes SD
-http://85.14.32.28:8800/udp/239.100.200.85:25000
-
-#EXTINF:-1 tvg-id="PLAYBOY TV" tvg-name="XxX: PLAYBOY TV" tvg-logo="http://img.starbr.in/1559769740_2e89abe45b95ba871009dd4e9ab94560da19a2ce.png" group-title="Adultos",XxX: PLAYBOY TV
-http://85.14.32.28:8800/udp/239.100.200.74:25000
-
-#EXTINF:-1, Playboy SD
-http://193.126.18.184:4022/udp/239.100.28.18:1234?RESOLUTION=1047x576
-
-#EXTINF:-1, Playboy TV SD
-http://view.my-tv.biz/tv/a0fccdfeac/997d1c54d0/video.m3u8
-
-#EXTINF : -1, SUPER ONE
-http://188.35.9.5:10007/stolen/246r/parasite.install
-
-#EXTINF : -1, SUPER ONE
-https://bit.ly/go4SITE-dailyfreeiptv-blogspot-com
-
-#EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/99.png" tvg-name="Hustler TV",Hustler TV
-http://37.193.134.225:81/udp/239.1.6.36:1234
-
-#EXTINF : -1, PLAYBOY
-http://5.206.229.61:4022/udp/239.100.28.18:1234
-
-#EXTINF : -1, Hustler HD Europe
-http://77.243.112.149:8080/hustler_hd/index.m3u8?token=413079063374
-
-#EXTINF:-1, Brazzers Europe SD
-http://85.14.32.28:8800/udp/239.100.200.81:25000
 
 #EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/109.png" tvg-name="Blue Hustler Europe",Blue Hustler Europe
 http://view.my-tv.biz/tv/a0fccdfeac/316e00eb6a/video.m3u8
