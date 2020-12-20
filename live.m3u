@@ -952,7 +952,7 @@ http://92.124.129.203:1234/udp/225.54.23.160:5000
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/DEsTYwhWAAAI2yA.jpg" group-title="Adulto",VISITX HD
 http://stream.visit-x.tv:1935/vxtv/live_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/2J2w9Yg”group-title="Adulto", RK SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/2J2w9Yg" group-title="Adulto",RK SD
 http://188.35.9.26:5031/udp/058j
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/2KCufht”group-title="Adulto", RK Adult
